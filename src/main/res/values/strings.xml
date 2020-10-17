@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Worry Not</string>
+    <string name="app_logo">app logo</string>
+    <string name="a_motivational_quote_for_you">A Motivational Quote For You!</string>
+    <string name="the_quote_is">“If you fail, never give up because F.A.I.L. means “First Attempt In Learning”. End is not the end, if fact E.N.D. means “Effort Never Dies.” If you get No as an answer, remember N.O. means “Next Opportunity”, So let’s be positive
+        - by A.P.J Abdul Kalam....”</string>
+    <string name="click_here_to_proceed_image_button">click here image Button</string>
+    <string name="hi_myself_worry_not">Hi myself Worry Not</string>
+    <string name="text_view">Hi myself Worry Not. Please tell me something about you......</string>
+    <string name="submit">submit</string>
+    <string name="user_name_welcome_activity">name</string>
+    <string name="welcome_word">Welcome </string>
+    <string name="welcome">Welcome</string>
+    <string name="wishes">A heartfelt welcome and lots of air hugs to you from our side , hop on the white clouds and
+    lets start a beautiful journey towards a ray of light............</string>
+    <string name="Next_btn">Next</string>
+    <string name="Ques_1">How are you feeling right now ?</string>
+    <string name="nxt">Next</string>
+    <string name="Ques_2">How often do you feel helplessness ?</string>
+    <string name="always">Always</string>
+    <string name="sometimes">Sometimes</string>
+    <string name="often">Often</string>
+    <string name="not_much">Not much</string>
+    <string name="bad">BAD</string>
+    <string name="good">GOOD</string>
+    <string name="okay">OKAY</string>
+    <string name="great">GREAT</string>
+    <string name="Ques_3">Do you often feel suicidal ?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="quest_4">Do you have people in your life who understands you or talk to you about your feelings ?</string>
+    <string name="Yes">YES</string>
+    <string name="No">NO</string>
+    <string name="NExt">NEXT</string>
+    <string name="Ques_7">How often you do physical workout ?</string>
+    <string name="everyDay">EVERY DAY</string>
+    <string name="onceInAWeek">ONCE IN A WEEK</string>
+    <string name="NotASingleDay">NOT A SINGLE DAY</string>
+    <string name="InAlternateDays">IN ALTERNATE DAYS</string>
+    <string name="Quest_8">How much do you eat in a day according to your requirements ?</string>
+    <string name="range_1">0%-25%</string>
+    <string name="range_2">25%-50%</string>
+    <string name="range_3">50%-75%</string>
+    <string name="range_4">75%-100%</string>
+    <string name="ques_9">How many hours do you sleep ?</string>
+    <string name="ques_10">How would you rate your temper ?</string>
+    <string name="range_01">0%-35%</string>
+    <string name="range_02">35%-75%</string>
+    <string name="range_03">75%-100%</string>
+    <string name="hours_1">2-4 hours </string>
+    <string name="hours_2">5-9 hours </string>
+    <string name="hours_3">9-13 hours </string>
+    <string name="hours_4">More than 13 hours </string>
+    <string name="ques_11">How often do you have mood swings ?</string>
+    <string name="range_11">0%-35%</string>
+    <string name="range_12">35%-75%</string>
+    <string name="range_13">75%-100%</string>
+    <string name="title_activity_recommendation">Recommendation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Worry Not</string>
+    <string name="nav_header_subtitle">appcodewithprachi@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_meditation">Meditation</string>
+    <string name="menu_dietChart">DietChart</string>
+    <string name="quizTimer">Note: You have 40 secs to answer few questions. </string>
+    <string name="text_meditation">meditation</string>
+    <string name="text_dietChart">dietChart</string>
+    <string name="quote">The more you sweat in training, the less you bleed in battle........</string>
+    <string name="quote_two">So let\'s harmonize the mind and start a journey together towards a process of self awareness......</string>
+    <string name="quote_three">Go to hamburger icon, choose your interest and start working on your weaknesses as learning is beautiful and best part of life and don\'t worry we are here for you always........</string>
+
+
+</resources>

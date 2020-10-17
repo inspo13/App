@@ -1,0 +1,9 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_menu_home" type="drawable">@drawable/ic_baseline_home_24</item>
+    <item name="ic_menu_meditation" type="drawable">@drawable/ic_baseline_visibility_24</item>
+    <item name="ic_menu_dietChart" type="drawable">@drawable/ic_baseline_table_chart_24</item>
+    <item name="ic_menu_manage" type="drawable">@android:drawable/ic_menu_manage</item>
+    <item name="ic_menu_share" type="drawable">@android:drawable/ic_menu_share</item>
+    <item name="ic_menu_send" type="drawable">@android:drawable/ic_menu_send</item>
+
+</resources>
